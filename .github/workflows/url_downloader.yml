@@ -64,7 +64,7 @@ jobs:
             FILENAME_EXT=""
           fi
           
-          ARCHIVE_PREFIX="sci-hub.ir_"
+          ARCHIVE_PREFIX=""
           FULL_ARCHIVE_NAME="${ARCHIVE_PREFIX}${FILENAME_BASE}"
           
           MAX_TOTAL_LEN=50
